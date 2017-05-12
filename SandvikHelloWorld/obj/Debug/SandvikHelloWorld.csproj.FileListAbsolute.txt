@@ -78,3 +78,4 @@ C:\Users\kapeltol\Documents\Demos\SandvikWebApp\SandvikHelloWorld\bin\Newtonsoft
 C:\Users\kapeltol\Documents\Demos\SandvikWebApp\SandvikHelloWorld\obj\Debug\SandvikHelloWorld.csprojResolveAssemblyReference.cache
 C:\Users\kapeltol\Documents\Demos\SandvikWebApp\SandvikHelloWorld\obj\Debug\SandvikHelloWorld.dll
 C:\Users\kapeltol\Documents\Demos\SandvikWebApp\SandvikHelloWorld\obj\Debug\SandvikHelloWorld.pdb
+C:\Users\kapeltol\Documents\Demos\SandvikWebApp\SandvikHelloWorld\bin\Content\sandviklogo.svg
